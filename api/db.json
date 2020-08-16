@@ -35,23 +35,23 @@
       "text": "朝食をとる🍞"
     },
     {
-      "id": "-wkumDeruhSx",
-      "text": "布団に入る\n(:3[___]"
-    },
-    {
       "id": "GjZHkeXkMCGM",
       "text": "起きる"
+    },
+    {
+      "id": "WwdzHMU-xMx7",
+      "text": "寝る"
     }
   ],
   "cardsOrder": {
-    "cXrtw5n8-FsB": "-wkumDeruhSx",
+    "cXrtw5n8-FsB": "3NRSLMq49xvT",
     "w7DTqK1QQKTI": "TsXP5w9qLeM-",
     "bfrqTfEydU38": "bfrqTfEydU38",
     "dfwMbxZS0EmM": "7lR4Vd3EYixP",
     "7lR4Vd3EYixP": "dfwMbxZS0EmM",
     "TsXP5w9qLeM-": "rh022hj9zG58",
     "rh022hj9zG58": "w7DTqK1QQKTI",
-    "3NRSLMq49xvT": "cXrtw5n8-FsB",
-    "-wkumDeruhSx": "3NRSLMq49xvT"
+    "3NRSLMq49xvT": "WwdzHMU-xMx7",
+    "WwdzHMU-xMx7": "cXrtw5n8-FsB"
   }
 }
