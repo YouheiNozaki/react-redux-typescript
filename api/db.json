@@ -41,17 +41,22 @@
     {
       "id": "WwdzHMU-xMx7",
       "text": "寝る"
+    },
+    {
+      "id": "oVnKBbw7KmPC",
+      "text": "勉強中"
     }
   ],
   "cardsOrder": {
-    "cXrtw5n8-FsB": "rh022hj9zG58",
-    "w7DTqK1QQKTI": "TsXP5w9qLeM-",
-    "bfrqTfEydU38": "bfrqTfEydU38",
-    "dfwMbxZS0EmM": "7lR4Vd3EYixP",
-    "7lR4Vd3EYixP": "dfwMbxZS0EmM",
-    "TsXP5w9qLeM-": "WwdzHMU-xMx7",
-    "rh022hj9zG58": "cXrtw5n8-FsB",
-    "3NRSLMq49xvT": "w7DTqK1QQKTI",
-    "WwdzHMU-xMx7": "3NRSLMq49xvT"
+    "cXrtw5n8-FsB": "3NRSLMq49xvT",
+    "w7DTqK1QQKTI": "rh022hj9zG58",
+    "bfrqTfEydU38": "TsXP5w9qLeM-",
+    "dfwMbxZS0EmM": "oVnKBbw7KmPC",
+    "7lR4Vd3EYixP": "WwdzHMU-xMx7",
+    "TsXP5w9qLeM-": "bfrqTfEydU38",
+    "rh022hj9zG58": "w7DTqK1QQKTI",
+    "3NRSLMq49xvT": "7lR4Vd3EYixP",
+    "WwdzHMU-xMx7": "cXrtw5n8-FsB",
+    "oVnKBbw7KmPC": "dfwMbxZS0EmM"
   }
 }
